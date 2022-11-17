@@ -1,4 +1,4 @@
-<h1>objectCounter</h1>
+<h1>Vision system for objects quantification on a conveyor belt</h1>
 
 >Trabalho de conclusão de curso de graduação em Engenharia Eletrônica da Universidade Tecnológica Federal do Paraná
 
